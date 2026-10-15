@@ -1,8 +1,8 @@
 # 📹 TrackAlert Vision — Project Demonstration
 
-[![TrackAlert Vision YouTube Demo](https://img.youtube.com/vi/hXbFTyaiIrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=hXbFTyaiIrY)
+[![TrackAlert Vision YouTube Demo](https://img.youtube.com/vi/hXbFTyailrY/maxresdefault.jpg)](https://www.youtube.com/watch?v=hXbFTyailrY)
 
-> 🔗 **Direct Video Link:** [Watch the Full Demonstration on YouTube (2m 45s)](https://www.youtube.com/watch?v=hXbFTyaiIrY)
+> 🔗 **Direct Video Link:** [Watch the Full Demonstration on YouTube (2m 45s)](https://www.youtube.com/watch?v=hXbFTyailrY)
 
 ---
 
