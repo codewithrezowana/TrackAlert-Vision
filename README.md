@@ -69,7 +69,8 @@ Project photos will be added here.
 
 ## Project Demonstration
 
-The demonstration video link will be added here.
+- 🎥 **Watch the Demo on YouTube:** [TrackAlert Vision System Demonstration](https://www.youtube.com/watch?v=hXbFTyaiIrY)
+- 📄 **Detailed Demo Notes & Timestamps:** [media/demo/README.md](media/demo/README.md)
 
 ## Documentation
 
